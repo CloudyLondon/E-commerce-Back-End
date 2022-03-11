@@ -26,7 +26,7 @@ SO THAT my company can compete with other e-commerce companies
 
 ### Walkthrough
 
-[link]()
+[link](./assets/e-commerice-back-end-walkthrough.mov)
 
 ### Contribution
 
